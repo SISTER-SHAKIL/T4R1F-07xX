@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "nickNameBot": "GoatBot",
-  "prefix": "!",
+  "prefix": "👨🏿‍🌾",
 
   "api": "https://www.noobs-api.rf.gd/dipto",
 
@@ -30,7 +30,7 @@
 
   "adminBot": [
     "100030851045383",
-    "",
+    "61579094188799",
     "",
     "",
     ""
@@ -42,7 +42,7 @@
 
   "DEV": [
     "100030851045383",
-    ""
+    "61579094188799"
   ],
 
   "VIP": [
